@@ -1,11 +1,11 @@
 {
-"wallpaper": "",
 "sites": [
 {
 "key": "shaokang",
 "name": "少康戰情室",
 "type": 3,
-"api": "https://black-voice-2572.zhangjufei08.workers.dev"
+"api": "csp_Nostr",
+"homePage": "https://www.youtube.com/playlist?list=PL64Si-sSRnvZxhAwf2kxsqQXsg8Qd9FDG"
 }
 ]
 }
